@@ -1,0 +1,54 @@
+apiVersion: backstage.io/v1alpha1
+kind: Product
+metadata:
+  name: creatingTest6
+  annotations:
+    confluence/page: creatingTest6
+spec:
+  type: service
+  owner: admin
+  lifecycle: experimental
+  projectInfo:
+    projectName: creatingTest6
+    moduleName: selva
+    informationAuthor: admin
+    modality: ''
+    bodyParts: ''
+    processingPurpose: ''
+    protocol: ''
+    algorithmType: ''
+    packageType: ''
+    supportedOs: ''
+    sourceCodeLanguage: ''
+    developmentStatus: ''
+    linkToProject: ''
+  applicationInfo:
+    linkAPI: ''
+    inputImages: ''
+    inputValues: ''
+    outputImages: ''
+    outputValues: ''
+    limitations: ''
+    algorithmDevelopmentCompany: ''
+  productization:
+    productizedApplication: ''
+    function: ''
+    productizedOwner: ''
+    releaseNotes: ''
+    knowIssues: ''
+  evaluationInformation:
+    evaluationResults: ''
+    evaluationType: ''
+    clinicalData: ''
+  algorithmInformation:
+    developmentPurpose: ''
+    developmentStatus: ''
+    algorithmDevelopmentCompany: ''
+    personinCharge: ''
+    collaborativeResearchPartner: ''
+    existenceofExternalIP: ''
+  technologyInformationforCMRE:
+    fundingProject: ''
+    group: ''
+    TRL: ''
+    projectStatus: ''
